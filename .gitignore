@@ -1,0 +1,4 @@
+# .obj files and .exe files do not upload 
+*.obj
+*.exe
+
